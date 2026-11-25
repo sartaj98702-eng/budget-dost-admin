@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Budget Dost SR - Admin",
+    "slug": "budget-dost-admin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "budgetdostadmin",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.admin.app",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.admin.app"
+    }
+  }
+}
